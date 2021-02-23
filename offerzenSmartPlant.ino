@@ -3,7 +3,7 @@ Rouan van der Ende (rouan@openboard.co.za)
 2021 
 https://github.com/rvdende/offerzenSmartPlant
 
-OpenSource.. use are you please.
+OpenSource.. use as you please.
 **/
 
 #include "config.h"
