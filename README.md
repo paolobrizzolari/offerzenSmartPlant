@@ -7,10 +7,10 @@ Flash.
 The device waits for packets like:
 
 ```json
-{ data: { control_pump : any }}
-{ data: { control_led : any }}
+{ "data": { "control_pump" : true }}
+{ "data": { "control_led" : true }}
 ```
 
-Recieving either of these will toggle the associated pump or led.
+Recieving either of these will toggle the associated pump or led. The values sent are ignored at this stage.
 
 See https://github.com/OfferZen-Make/plant_tech_ams/blob/master/PREP.md for more.
